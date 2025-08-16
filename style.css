@@ -11,7 +11,7 @@ body {
 .container {
   display: flex;
   background: white;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 5px 20px rgba(0,0,0,0.1);
   width: 700px;
@@ -30,7 +30,7 @@ body {
   margin-bottom: 10px;
 }
 .left p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 .left button {
@@ -55,7 +55,7 @@ body {
 .social-icons {
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 12px;
   margin: 20px 0;
 }
 .social-icons div {
