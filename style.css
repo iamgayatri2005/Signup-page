@@ -20,7 +20,7 @@ body {
 
 /* Left side - Sign Up */
 .left {
-  background: #2bb5a3;
+  background: #a0c565;
   color: white;
   padding: 50px 30px;
   text-align: center;
@@ -35,7 +35,7 @@ body {
 }
 .left button {
   background: white;
-  color: #2bb5a3;
+  color: #a0c565;
   border: none;
   padding: 10px 20px;
   border-radius: 20px;
@@ -50,7 +50,7 @@ body {
   text-align: center;
 }
 .right h2 {
-  color: #2bb5a3;
+  color: #a0c565;
 }
 .social-icons {
   display: flex;
